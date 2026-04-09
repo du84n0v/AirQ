@@ -11,6 +11,8 @@
 
         <!-- MAPPINGS -->
         <mapping class="dasturlash.uz.entity.Substance"/>
+        <mapping class="dasturlash.uz.entity.Profile"/>
+        <mapping class="dasturlash.uz.entity.JobPosition"/>
 
     </session-factory>
 
