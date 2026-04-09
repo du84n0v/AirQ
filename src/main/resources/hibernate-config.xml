@@ -20,6 +20,7 @@
         <mapping class="dasturlash.uz.entity.Measurement"/>
         <mapping class="dasturlash.uz.entity.Report"/>
         <mapping class="dasturlash.uz.entity.Analyst"/>
+        <mapping class="dasturlash.uz.entity.Maintenance"/>
 
     </session-factory>
 
