@@ -10,7 +10,7 @@
         <property name="show_sql">true</property>
 
         <!-- MAPPINGS -->
-        <mapping class="dasturlash.uz.entity.Student"/>
+        <mapping class="dasturlash.uz.entity.Substance"/>
 
     </session-factory>
 
