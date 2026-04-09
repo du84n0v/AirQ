@@ -20,4 +20,7 @@ public class JobPosition {
     @Column(name = "position_name")
     private String positionName;
 
+    @Column
+    private String degree;
+
 }
