@@ -14,4 +14,8 @@ public class Report {
 
     @Column(name = "reported_date")
     private LocalDateTime reported_date;
+
+    @ManyToOne
+    @JoinColumn(name = "analyst_id")
+    private Analyst analytic;
 }
