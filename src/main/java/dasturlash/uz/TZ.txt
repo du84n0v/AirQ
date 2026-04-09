@@ -18,8 +18,14 @@ Ifloslantiruvchi moddalarning kontsentratsiyasini kuzatish uchun belgilangan sta
 Xar bitta stansiyada turlicha sensorlar (datchik lar) mavjut. Xar bitta sensorning takrorlanmas kodiga ega. Sensorning nomi bor.  Shu bilan birga sensor turgan stansiyaga bo’g’lanadi. Xar bitta  sensor ning  aniqlaydigan  ifloslantiruvchi  moddasi bo’ladi.
 
 
-Sensor o'lchovlari ma'lumotlar bazasida saqlanadi (aniqlagan miqtorlari saqlanadi). Har bir o'lchovning miqdori , qaysi  senserdan olinganligi , yig'ilgan kuni va vaqti malumdir. Har bir  oyda har xil ifloslantiruvchi moddalar uchun o'lchangan kontsentratsiyalarni (miqtorlari) umumlashtiruvchi hisobot hosil qilingan. Har bir hisobot takrorlanmas kod bilan aniqlanadi va elon qilish sanasi bo’ladi. Undan tashqali hisobotga  o’lchovlar ro’yxati kiradi (senserlar dan olinga o’lchovlar xisobot ichiga kiradi).   Xar bitta hisobotni analitik tomonidan  tekshiriladi va taxlil qilinadi.
+Sensor o'lchovlari ma'lumotlar bazasida saqlanadi (aniqlagan miqtorlari saqlanadi).
+Har bir o'lchovning miqdori , qaysi  senserdan olinganligi , yig'ilgan kuni va vaqti malumdir.
+Har bir  oyda har xil ifloslantiruvchi moddalar uchun o'lchangan kontsentratsiyalarni (miqtorlari) umumlashtiruvchi hisobot hosil qilingan.
+Har bir hisobot takrorlanmas kod bilan aniqlanadi va elon qilish sanasi bo’ladi. Undan tashqali hisobotga  o’lchovlar ro’yxati kiradi (senserlar dan olinga o’lchovlar xisobot ichiga kiradi).
+Xar bitta hisobotni analitik tomonidan  tekshiriladi va taxlil qilinadi.
 
 
-Stantsiya ishlamay qolsa, stantsiyaga texnik xizmat ko'rsatish jarayoni amalga oshiriladi.  Xar bitta jarayon  bazada saqlanadi. Bunda uning   texnik xizmat ko’rsatish boshlangan kuni, boshlanish va tugatish vaqti (soat/time), jalb qilingan stantsiya (ishdan chiqqan stansiya), texnik xizmat ko'rsatishni amalga oshirgan texnik va ishdan chiqish sababi bo’ladi. Esda tuting Turli texnik xizmatlari bitta stansiyaga bir kunda ko’rsatilishi mumkin. Biroq birvaqtni o’zida bitta texnik xodim birdan ortiq textik xizmatni qila olmaydi.
+Stantsiya ishlamay qolsa, stantsiyaga texnik xizmat ko'rsatish jarayoni amalga oshiriladi.
+Xar bitta jarayon  bazada saqlanadi. Bunda uning   texnik xizmat ko’rsatish boshlangan kuni, boshlanish va tugatish vaqti (soat/time), jalb qilingan stantsiya (ishdan chiqqan stansiya), texnik xizmat ko'rsatishni amalga oshirgan texnik va ishdan chiqish sababi bo’ladi.
+Esda tuting Turli texnik xizmatlari bitta stansiyaga bir kunda ko’rsatilishi mumkin. Biroq birvaqtni o’zida bitta texnik xodim birdan ortiq textik xizmatni qila olmaydi.
 
