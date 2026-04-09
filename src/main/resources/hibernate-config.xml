@@ -17,6 +17,7 @@
         <mapping class="dasturlash.uz.entity.Sensor"/>
         <mapping class="dasturlash.uz.entity.Station"/>
         <mapping class="dasturlash.uz.entity.Pollutant"/>
+        <mapping class="dasturlash.uz.entity.Measurement"/>
 
     </session-factory>
 
